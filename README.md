@@ -36,6 +36,4 @@
 
   <img src="https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white" />
 
-- Wordpress
-
 - <img src="https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=wordpress" />
