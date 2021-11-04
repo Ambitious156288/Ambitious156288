@@ -36,8 +36,6 @@ commercial projects.</p>
 
 - <img src="https://img.shields.io/badge/-Salesforce-blue?express" />
 
-### ⚡ Projects:
-----------------------------------------------------------------------------------------------------------
 
 
 
