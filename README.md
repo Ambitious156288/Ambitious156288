@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Krystian - Junior Frontend developer
 
+<hr style="border:2px solid gray"> </hr>
 
-<p>I'm 23 years old Frontend freak and student of PRZ in Rzeszow, but also I'm interested in new technologies and chess( I am a
+<p>I'm 23 years old Frontend freak and student of PRZ in Rzeszow, but also I'm interested in new technologies and chess <br /> ( I am a
 vice-champion Poland chess player). I'm a self-taught quick learner, keep developing new stuff. My goal is to gain experience in
 commercial projects.</p>
 
