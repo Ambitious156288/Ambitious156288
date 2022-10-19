@@ -2,9 +2,7 @@
 
 ***
 
-<p>I'm 23 years old Frontend freak and student of PRZ in Rzeszow, but also I'm interested in new technologies and chess <br /> ( I am a
-vice-champion Poland chess player). I'm a self-taught quick learner, keep developing new stuff. My goal is to gain experience in
-commercial projects.</p>
+<p>I'm a self-taught quick learner. Learning about new technologies is my passion. I've been playing chess since I was 8 and managed to be a vice-champion of Poland. Chess has played a major role in becoming who I am. I’m persistent and I love solving complex cases. I'm systematic in whatever decide to pursue. I want to grow and become a Fullstack Software Engineer.</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/krystian-ka%C5%82wik-a2201b178/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)
