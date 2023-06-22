@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Krystian - Junior Frontend developer
+### 👋 Hi there, I'm Krystian - Frontend developer
 
 ***
 
