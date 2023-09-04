@@ -9,23 +9,29 @@
 
 ### 🔧 Technical skills:
 
-- Languages: Typescript
-- Environments: VSCode, prettier, eslint, husky, webpack...
-- Frontend Frameworks/ libraries: React, Single-spa(microfrontends), NextJS, Redux Toolkit/Recoil/Context API, React hook form, i18n, AntD/Material-UI...
-- Backend Frameworks/ libraries: NodeJS, ExpressJS...
-- Databases: MongoDB
+- Languages:
+- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
-- Languages: <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+- Environments: VSCode, prettier, eslint, husky, webpack...
+  
+- Frontend Frameworks/ libraries: React, Single-spa(microfrontends), NextJS, Redux Toolkit/Recoil/Context API, React hook form, i18n, AntD/Material-UI...
+  
+- Backend Frameworks/ libraries:
+- <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express" />
+  
+- Databases:
+- <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+
 
 - Frontend: <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
 
 - <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
-- Backend: <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express" />
 
-- Databases: <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+
 
 
 
