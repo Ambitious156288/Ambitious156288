@@ -14,5 +14,5 @@
 - <b>Databases:  </b>MongoDB
 - <b>Tests: </b>Jest, Cypress
 
-### ✍ Connect with me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=center&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)
+### ✍ Connect with me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=down&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)
 
