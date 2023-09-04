@@ -4,41 +4,15 @@
 
 <p>I'm a self-taught quick learner. Learning about new technologies is my passion. I've been playing chess since I was 8 and managed to be a vice-champion of Poland. Chess has played a major role in becoming who I am. I’m persistent and I love solving complex cases. I'm systematic in whatever decide to pursue.</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)
-<br />
-
 ### 🔧 Technical skills:
 
-- Languages:
-- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+- <b>Languages:  </b>Typescript
+- <b>Environments:  </b>VSCode, prettier, eslint, husky, webpack, etc...
+- <b>Frontend:  </b>React, Next, Single-spa(microfrontends) 
+- <b>Backend:  </b>Node, Express
+- <b>Libraries:  </b>Redux Toolkit/Recoil/Context API, axios, React hook form, i18n, AntD/Material-UI, etc...
+- <b>Databases:  </b>MongoDB
+- <b>Tests: </b>Jest, Cypress
 
-- Environments: VSCode, prettier, eslint, husky, webpack...
-  
-- Frontend Frameworks/ libraries: React, Single-spa(microfrontends), NextJS, Redux Toolkit/Recoil/Context API, React hook form, i18n, AntD/Material-UI...
-  
-- Backend Frameworks/ libraries:
-- <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express" />
-  
-- Databases:
-- <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
-
-
-- Frontend: <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-
-- <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h3 align="left">✍ Connect with me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)</h3>
 
