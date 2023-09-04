@@ -7,9 +7,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)
 <br />
 
-### 🔧 Skills:
+### 🔧 Technical skills:
 
-- <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+Languages: Typescript
+Environments: VSCode, prettier, eslint, husky, webpack...
+Frontend Frameworks/ libraries: React, Single-spa(microfrontends), NextJS, Redux Toolkit/Recoil/Context API, React hook form, i18n, AntD/Material-UI...
+Backend Frameworks/ libraries: NodeJS, ExpressJS...
+Databases: MongoDB
+
+- Languages: <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 - Frontend: <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
 
