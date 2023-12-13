@@ -16,3 +16,4 @@
 
 ### ✍ Connect with me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=down&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:krystian.kalwik@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/krystian-ka%C5%82wik-a2201b178/)
