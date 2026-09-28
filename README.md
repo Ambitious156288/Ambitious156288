@@ -1,8 +1,11 @@
-### 👋 Hi there, I'm Krystian - Typescript Fullstack developer
+### 👋 Hi there, I'm Krystian - Frontend Developer (TypeScript • React • Next.js)
 
 ***
 
-<p>I'm a self-taught quick learner. Learning about new technologies is my passion. I've been playing chess since I was 8 and managed to be a vice-champion of Poland. Chess has played a major role in becoming who I am. I’m persistent and I love solving complex cases. I'm systematic in whatever decide to pursue.</p>
+<p>I have 7 years of commercial experience gained during participation in projects in the field of designing, creating and implementing
+web applications. I specialize in building scalable and efficient solutions using React and Next.js. I've been passionate about chess
+since I was 8 and became a vice-champion of Poland. Chess has played a significant role in shaping who I am today – it taught me
+persistence and strategic thinking.</p>
 
 ### 🔧 Technical skills:
 
